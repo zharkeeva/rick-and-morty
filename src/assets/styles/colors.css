@@ -1,0 +1,11 @@
+:root {
+  --bg-color-01:   rgb(39, 43, 51);
+  --additional-text:  rgb(158, 158, 158);
+  --main-text:rgb(255, 255, 255);
+  --bg-color-element-01:rgb(85, 204, 68);
+  --bg-color-element-02:rgb(214, 61, 46);
+  --bg-color-card: rgb(60, 62, 68);
+  --bg-color-wrapper:rgb(39, 43, 51);
+  --box-shadow-01:rgba(0, 0, 0, 0.1);
+  --box-shadow-02:rgba(0, 0, 0, 0.06);
+}
